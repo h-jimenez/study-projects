@@ -24,5 +24,4 @@ All my various projects gathered in one place
     - First steps with JUCE framework
 
 ## Personnal project :
-### Microtone 
-    - Microtonal MIDI tuner 
+### Microtone - Microtonal MIDI tuner 
