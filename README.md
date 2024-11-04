@@ -2,7 +2,7 @@
 All my various projects gathered in one place
 
 ## Personnal project :
-### Microtone - Microtonal MIDI tuner
+### Microtone - _Microtonal MIDI tuner_
 1. Functionalities :
     - Select a microtonal scale and a root key. Microtone remaps inputs with according pitch starting from the root key note.
     - Scale circle showing the repartition of notes along the scale.
