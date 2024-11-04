@@ -4,18 +4,18 @@ All my various projects gathered in one place
 ## Master 1 : 
 
 1. openFrameworks - _(C++)_ 
-*** !!TO UPDATE!! ***
+***!!TO UPDATE!!***
     - Flanger
 
 1. Nightmares 
-*** !!MAKE A VIDEO!! ***
+***!!MAKE A VIDEO!!***
     - Sound Design, FMOD Integration, Musical Composition
 
 2. Celeste 
     - Sound Design, FMOD Integration, Musical Composition
 
 3. Organ Kontakt Instrument - _Behind The Wall_
-*** Clean files ***
+***Clean files***
     - Samples Recording, KSP Script, UI Design
 
 ## Master 2 :
