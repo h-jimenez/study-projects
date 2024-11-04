@@ -3,8 +3,8 @@ All my various projects gathered in one place
 
 ## Personnal project :
 ### Microtone - _Microtonal MIDI tuner_
-1. Functionalities :
-    - Select a microtonal scale and a root key. Microtone remaps inputs with according pitch starting from the root key note.
+1. Features :
+    - Select a microtonal scale and a root key. Microtone remaps inputs with according pitch starting from the root key note using pitchwheel messages through MPE.
     - Scale circle showing the repartition of notes along the scale.
     - Real-time visualization of notes played (key and cents variations).
 2. In future updates :
