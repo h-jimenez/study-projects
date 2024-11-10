@@ -20,18 +20,28 @@ Achieve new harmonies, use uncommon scales and try bringing microtonality in you
 
 ## Master 1 : 
 
-1. **openFrameworks** - _(C++)_ 
-***!!TO UPDATE!!***
-    - Flanger.
+1. **openFrameworks** - _(C++)_
+   
+    - Little project as an introduction to openFrameworks. It's a simple flanger using a ring buffer. I added my personnal touch with a fun interface just to explore a bit more concerning graphics.
 
-1. **Nightmares**
-***!!MAKE A VIDEO!!***
-    - Sound Design, FMOD Integration, Musical Composition.
+![Flanger GIF](Resources/oFflanger.gif)
 
-4. **Celeste**
-    - Sound Design, FMOD Integration, Musical Composition.
+2. **Nightmares**  
+_- Sound Design, FMOD Integration, Musical Composition_
+    - One-week project using FMOD Studio. I had to create all sounds and compose a music according to my vision of the project.
 
-5. **Organ Kontakt Instrument - _Behind The Wall_**
+
+***[Nightmares demo video](https://youtu.be/17RsxzRhjLo)***
+
+
+3. **Celeste**  
+_- Sound Design, FMOD Integration, Musical Composition_
+    - Two-weeks project working in pairs. Every sound in the prologue is originally composed except for the dialogue.
+
+
+***[Celeste Prologue demo video](https://youtu.be/uj4BmEaQM3w)***
+
+4. **Organ Kontakt Instrument - _Behind The Wall_**
 ***Clean files***
     - Samples Recording, KSP Script, UI Design.
 
