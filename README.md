@@ -41,8 +41,7 @@ _- Sound Design, FMOD Integration, Musical Composition_
 
 ***[Celeste Prologue demo video](https://youtu.be/uj4BmEaQM3w)***
 
-4. **Organ Kontakt Instrument - _Behind The Wall_**
-***Clean files***
+4. **Organ Kontakt Instrument - _Inside The Wall_**  
     - Samples Recording, KSP Script, UI Design.
 
 ## Master 2 :
