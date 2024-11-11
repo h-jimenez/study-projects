@@ -44,6 +44,8 @@ _- Sound Design, FMOD Integration, Musical Composition_
 4. **Organ Kontakt Instrument - _Inside The Wall_**  
     - Samples Recording, KSP Script, UI Design.
 
+![Front Panel](../Resources/InsideTheWall-FrontPanel.PNG)
+
 ## Master 2 :
 
 1. **JUCE - Delay VST**
