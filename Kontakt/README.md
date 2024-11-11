@@ -6,7 +6,9 @@ Inside The Wall is an organ instrument built for Kontakt, featuring samples reco
 
 The instrument includes a variety of FX and adjustable parameters, such as white noise and key touch noise, allowing for deep and unique creations.
 
+### Parameters Panel
 ![Parameters Panel](../Resources/InsideTheWall-ParametersPanel.PNG)
+### FX Panel
 ![FX Panel](../Resources/InsideTheWall-FXPanel.PNG)
 
 Note : Inside The Wall is a two-weeks project prototype so it currently lacks state-saving between instances and sessions.
