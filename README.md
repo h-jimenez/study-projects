@@ -42,9 +42,9 @@ _- Sound Design, FMOD Integration, Musical Composition_
 ***[Celeste Prologue demo video](https://youtu.be/uj4BmEaQM3w)***
 
 4. **Organ Kontakt Instrument - _Inside The Wall_**  
-    - Samples Recording, KSP Script, UI Design.
+    - Two-weeks prototype of an organ instrument for Kontakt. Samples were recorded from the historic organ at Grignan Temple in Marseille.
 
-![Front Panel](../Resources/InsideTheWall-FrontPanel.PNG)
+![Front Panel](Resources/InsideTheWall-FrontPanel.PNG)
 
 ## Master 2 :
 
