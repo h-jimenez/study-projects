@@ -1,6 +1,12 @@
 # studies-work
 All my various projects gathered in one place
 
+## Intership - Musical Gesture and Motion Capture
+### Prism Laboratory, Marseille
+
+
+
+
 ## Personnal project :
 ### Microtone - _Microtonal MIDI tuner_
 Microtone's goal is to open microtonality to anyone who wants to explore new sounds with a simple tool. You can play with it using a regular MIDI piano and your favorite synth VST.
