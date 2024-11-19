@@ -4,18 +4,11 @@
 ## Intership - Musical Gesture and Motion Capture
 ### PRISM Laboratory, Marseille
 
-During my two-month internship at the PRISM Laboratory, I focused on the motion capture of musical gestures. I worked on questions like the definition of musical gesture and how we can describe them.  
-We used Move.ai technology to create 3D models of musicians playing their instruments. The main goal of the intership was to create a database of gestures to analyse, composed of a 3D animation and his associated sound.
-__image?__  
-I developed a Python software, which takes 2 files; 1 .fbx file for the animation and 1 .wav file for the sound and analyze them.  
-__image software__  
-At the end, we have a .aap file which is a binary container with both files and .json containing semantic and analytic data.  
-__schema__  
-Additionnaly, I used Unity 3D to create a player/sequencer to synchronize animations with audio. I developped a script which permits us to directly load .aap files and extract assets from it.  
-__image unity__  
+During my two-month internship at the PRISM Laboratory, I focused on the motion capture of musical gestures. My work centered on defining what constitutes a musical gesture and how these can be described. Using Move.ai technology, we created 3D models of musicians playing their instruments. The primary goal of the internship was to create a comprehensive database of gestures for analysis, composed of a 3D animation and its associated sound.
 
-This project allowed me to develop my skills in programming, my knowledge in databases and contributing to innovative research in the field of music gestures and motion analysis.
+I developed a Python software that processes two files: an .fbx file for the animation and a .wav file for the sound. This software analyzes both files, resulting in a .aap file, which is a binary container holding both the animation and audio, and a .json file containing semantic and analytic data.
 
+Additionally, I used Unity 3D to create a player/sequencer that synchronizes animations with audio. I developed a script that allows us to directly load .aap files and extract the assets from them. This project allowed me to enhance my programming skills, deepen my knowledge of databases, and contribute to innovative research in the field of musical gestures and motion analysis.
 
 ## Personnal project :
 ### Microtone - _Microtonal MIDI tuner_
