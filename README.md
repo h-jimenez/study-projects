@@ -1,5 +1,5 @@
 # studies-work
-All my various projects gathered in one place
+### _All my various projects gathered in one place_
 
 ## Intership - Musical Gesture and Motion Capture
 ### PRISM Laboratory, Marseille
