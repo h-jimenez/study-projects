@@ -11,7 +11,7 @@ I developed a Python software that processes two files: an .fbx file for the ani
 <table>
   <tr>
     <td><img src="Resources/aapsoftware.PNG" width="466" height="220"></td>
-    <td><img src="Resources/jsoninfo.png" width="333" height="200"></td>
+    <td><img src="Resources/jsoninfo.png" width="333" height="300"></td>
   </tr>
 </table>
 Additionally, I used Unity 3D to create a player/sequencer that synchronizes animations with audio. I developed a script that allows us to directly load .aap files and extract the assets from them.   
