@@ -10,8 +10,17 @@ I developed a Python software that processes two files: an .fbx file for the ani
 
  <img src="Resources/aapsoftware.PNG" width="600" height="300">
 
-Additionally, I used Unity 3D to create a player/sequencer that synchronizes animations with audio. I developed a script that allows us to directly load .aap files and extract the assets from them. This project allowed me to enhance my programming skills, deepen my knowledge of databases, and contribute to innovative research in the field of musical gestures and motion analysis.  
--> Rajouter le but de fin du projet à développer.
+Additionally, I used Unity 3D to create a player/sequencer that synchronizes animations with audio. I developed a script that allows us to directly load .aap files and extract the assets from them.   
+<table>
+  <tr>
+    <td><img src="Resources/playerscene.png" width="600" height="330"></td>
+    <td><img src="Resources/playerinfo.png" width="300" height="200"></td>
+  </tr>
+</table>
+I created a scene with interactive UI elements, including basic player functionalities such as play/pause and loop. You can adjust the loop timings and playback speed through the game object's inspector.  
+
+The goal of this project was to create a database of musical gestures and explore connections between audio and movement descriptors. Additionnaly, it was designed as a tool for musical creation, allowing samples to be searched using common data rather than just by instruments.
+
 
 ## Personnal project :
 ### Microtone - _Microtonal MIDI tuner_
@@ -24,7 +33,7 @@ Achieve new harmonies, use uncommon scales and try bringing microtonality in you
 - Scale circle showing the repartition of notes along the scale.
 - Real-time visualization of notes played (key and cents variations).
 
-***- Planned :***
+***- For future updates :***
 - Custom scale creation.
 - MIDI visual arpeggiator using the scale circle.
 - Microtonal notations
