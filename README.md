@@ -10,7 +10,7 @@ I developed a Python software that processes two files: an .fbx file for the ani
 
 <table>
   <tr>
-    <td><img src="Resources/aapsoftware.PNG" width="700" height="330"></td>
+    <td><img src="Resources/aapsoftware.PNG" width="400" height="330"></td>
     <td><img src="Resources/jsoninfo.png" width="500" height="300"></td>
   </tr>
 </table>
