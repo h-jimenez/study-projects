@@ -76,7 +76,7 @@ _- Sound Design, FMOD Integration, Musical Composition_
 
 ## Master 2 :
 
-1. **JUCE - Delay VST**
+1. **JUCE - Flanger VST**
     - First steps with JUCE framework.
 
 
