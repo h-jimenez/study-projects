@@ -24,6 +24,7 @@ The goal of this project was to create a database of musical gestures and explor
 
 ## Personnal project :
 ### Microtone - _Microtonal MIDI tuner_
+![MicrotoneReaper](Resources/MicrotoneReaper.png)
 Microtone's goal is to open microtonality to anyone who wants to explore new sounds with a simple tool. You can play with it using a regular MIDI piano and your favorite synth VST.
 
 Achieve new harmonies, use uncommon scales and try bringing microtonality in your music.
