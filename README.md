@@ -1,4 +1,4 @@
-# studies-work
+# study-projects
 
 ## Intership - Musical Gesture and Motion Capture
 ### PRISM Laboratory, Marseille
