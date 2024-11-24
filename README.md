@@ -32,7 +32,6 @@ The goal of this project was to create a database of musical gestures and explor
 ![MicrotoneReaper](Resources/MicrotoneReaper.png)
 Microtone's goal is to open microtonality to anyone who wants to explore new sounds with a simple tool. You can play with it using a regular MIDI piano and your favorite synth VST supporting pitchbends.
 
-Achieve new harmonies, use uncommon scales and try bringing microtonality in your music.
 
 ***- Features :***
 - Select a microtonal scale and a root key. Microtone remaps inputs with according pitch starting from the root key note using pitchwheel messages.
