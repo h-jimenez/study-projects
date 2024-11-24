@@ -43,7 +43,8 @@ Achieve new harmonies, use uncommon scales and try bringing microtonality in you
 - Custom scale creation.
 - MIDI visual arpeggiator using the scale circle.
 - Microtonal notations
-- Better UI 
+- Better UI
+- Synthesis section
 
 ## Master 1 : 
 
